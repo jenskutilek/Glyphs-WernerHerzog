@@ -16,6 +16,10 @@
 	<string>1</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>UpdateFeedURL</key>
+	<string>https://raw.githubusercontent.com/jenskutilek/Glyphs-WernerHerzog/main/WernerHerzog.glyphsPlugin/Contents/Info.plist</string>
+	<key>productPageURL</key>
+	<string>https://github.com/jenskutilek/Glyphs-WernerHerzog</string>
 	<key>productReleaseNotes</key>
 	<string>Initial release.</string>
 	<key>NSHumanReadableCopyright</key>
